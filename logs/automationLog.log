@@ -1,0 +1,72 @@
+14:30:30.311 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user  and password - secret_sauce
+14:30:31.293 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - expectedProductLabel-Products and actualProductLabel - Products
+12:19:44.146 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+12:19:44.175 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user  and password - secret_sauce
+12:19:45.516 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - expectedProductLabel-Products and actualProductLabel - Products
+15:08:14.410 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+15:08:14.496 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user  and password - secret_sauce
+23:02:25.919 [main] INFO  com.artoftesting.test.WeatherShopperTest - Shopping products based on temperature
+23:04:08.108 [main] INFO  com.artoftesting.test.WeatherShopperTest - Shopping products based on temperature
+23:04:09.986 [main] INFO  com.artoftesting.test.WeatherShopperTest - Buying Moisturizers
+23:05:01.010 [main] INFO  com.artoftesting.test.WeatherShopperTest - Shopping products based on temperature
+23:05:01.098 [main] INFO  com.artoftesting.test.WeatherShopperTest - Temperature is: 4
+23:05:02.933 [main] INFO  com.artoftesting.test.WeatherShopperTest - Buying Moisturizers
+23:06:22.346 [main] INFO  com.artoftesting.test.WeatherShopperTest - Shopping products based on temperature
+23:07:16.814 [main] INFO  com.artoftesting.test.WeatherShopperTest - Shopping products based on temperature
+23:09:50.893 [main] INFO  com.artoftesting.test.WeatherShopperTest - Shopping products based on temperature
+23:13:24.589 [main] INFO  com.artoftesting.test.WeatherShopperTest - Shopping products based on temperature
+23:13:24.712 [main] INFO  com.artoftesting.test.WeatherShopperTest - Temperature is: 37
+23:13:26.476 [main] INFO  com.artoftesting.test.WeatherShopperTest - Buying Sunscreens
+23:13:43.309 [main] INFO  com.artoftesting.test.WeatherShopperTest - Shopping products based on temperature
+23:13:43.449 [main] INFO  com.artoftesting.test.WeatherShopperTest - Temperature is: 44
+23:13:45.357 [main] INFO  com.artoftesting.test.WeatherShopperTest - Buying Sunscreens
+23:13:58.343 [main] INFO  com.artoftesting.test.WeatherShopperTest - Shopping products based on temperature
+23:13:58.476 [main] INFO  com.artoftesting.test.WeatherShopperTest - Temperature is: 47
+23:14:00.275 [main] INFO  com.artoftesting.test.WeatherShopperTest - Buying Sunscreens
+23:15:01.768 [main] INFO  com.artoftesting.test.WeatherShopperTest - Shopping products based on temperature
+23:15:01.932 [main] INFO  com.artoftesting.test.WeatherShopperTest - Temperature is: 48
+23:15:03.813 [main] INFO  com.artoftesting.test.WeatherShopperTest - Buying Sunscreens
+11:21:48.674 [main] INFO  com.artoftesting.test.WeatherShopperMoisturizerTest - Shopping products based on least expensive price
+11:26:19.719 [main] INFO  com.artoftesting.test.WeatherShopperMoisturizerTest - Shopping products based on least expensive price
+11:26:47.727 [main] INFO  com.artoftesting.test.WeatherShopperMoisturizerTest - Shopping products based on least expensive price
+11:45:03.955 [main] INFO  com.artoftesting.test.WeatherShopperMoisturizerTest - Shopping products based on least expensive price
+11:49:03.469 [main] INFO  com.artoftesting.test.WeatherShopperMoisturizerTest - Shopping products based on least expensive price
+11:50:43.325 [main] INFO  com.artoftesting.test.WeatherShopperMoisturizerTest - Shopping products based on least expensive price
+12:23:08.986 [main] INFO  com.artoftesting.test.WeatherShopperMoisturizerTest - Shopping products based on least expensive price
+12:26:47.732 [main] INFO  com.artoftesting.test.WeatherShopperMoisturizerTest - Shopping products based on least expensive price
+12:28:38.078 [main] INFO  com.artoftesting.test.WeatherShopperMoisturizerTest - Shopping products based on least expensive price
+12:30:34.718 [main] INFO  com.artoftesting.test.WeatherShopperMoisturizerTest - Shopping products based on least expensive price
+12:31:31.414 [main] INFO  com.artoftesting.test.WeatherShopperMoisturizerTest - Shopping products based on least expensive price
+19:28:54.606 [main] INFO  com.artoftesting.test.WeatherShopperMoisturizerTest - Shopping products based on least expensive price
+19:33:27.856 [main] INFO  com.artoftesting.test.WeatherShopperMoisturizerTest - Shopping products based on least expensive price
+19:34:45.914 [main] INFO  com.artoftesting.test.WeatherShopperMoisturizerTest - Shopping products based on least expensive price
+19:36:31.245 [main] INFO  com.artoftesting.test.WeatherShopperMoisturizerTest - Shopping products based on least expensive price
+19:37:02.126 [main] INFO  com.artoftesting.test.WeatherShopperMoisturizerTest - Shopping products based on least expensive price
+19:39:08.180 [main] INFO  com.artoftesting.test.SearchFlightsTest - Shopping products based on temperature
+19:40:25.174 [main] INFO  com.artoftesting.test.SearchFlightsTest - Shopping products based on temperature
+19:42:12.116 [main] INFO  com.artoftesting.test.SearchFlightsTest - Shopping products based on temperature
+19:43:37.469 [main] INFO  com.artoftesting.test.SearchFlightsTest - Shopping products based on temperature
+21:45:30.273 [main] INFO  com.artoftesting.test.SearchFlightsTest - Shopping products based on temperature
+21:49:51.978 [main] INFO  com.artoftesting.test.SearchFlightsTest - Shopping products based on temperature
+21:50:57.193 [main] INFO  com.artoftesting.test.SearchFlightsTest - Shopping products based on temperature
+21:52:13.448 [main] INFO  com.artoftesting.test.SearchFlightsTest - Shopping products based on temperature
+22:07:40.656 [main] INFO  com.artoftesting.test.SearchFlightsTest - Shopping products based on temperature
+22:09:00.704 [main] INFO  com.artoftesting.test.SearchFlightsTest - Shopping products based on temperature
+22:21:59.741 [main] INFO  com.artoftesting.test.SearchFlightsTest - Shopping products based on temperature
+22:34:18.004 [main] INFO  com.artoftesting.test.SearchFlightsTest - Shopping products based on temperature
+23:24:55.801 [main] INFO  com.artoftesting.test.SearchFlightsTest - Shopping products based on temperature
+23:28:22.696 [main] INFO  com.artoftesting.test.SearchFlightsTest - Shopping products based on temperature
+23:31:36.660 [main] INFO  com.artoftesting.test.SearchFlightsTest - Shopping products based on temperature
+23:32:55.202 [main] INFO  com.artoftesting.test.SearchFlightsTest - Shopping products based on temperature
+23:34:34.881 [main] INFO  com.artoftesting.test.SearchFlightsTest - Shopping products based on temperature
+23:35:55.236 [main] INFO  com.artoftesting.test.SearchFlightsTest - Shopping products based on temperature
+23:36:50.775 [main] INFO  com.artoftesting.test.SearchFlightsTest - Shopping products based on temperature
+23:39:36.835 [main] INFO  com.artoftesting.test.SearchFlightsTest - Shopping products based on temperature
+00:16:42.093 [main] INFO  com.artoftesting.test.SearchFlightsTest - Searching for flights on a date
+00:17:21.044 [main] INFO  com.artoftesting.test.SearchFlightsTest - Searching for flights on a date
+00:40:09.155 [main] INFO  com.artoftesting.test.SearchFlightsTest - Searching for flights on a date
+00:40:49.489 [main] INFO  com.artoftesting.test.SearchFlightsTest - Searching for flights on a date
+00:40:56.646 [main] INFO  com.artoftesting.test.SearchFlightsTest - Verify no flights found message is shown when there are no flight route
+00:45:05.221 [main] INFO  com.artoftesting.test.SearchFlightsTest - Searching for flights on a date
+00:45:12.566 [main] INFO  com.artoftesting.test.SearchFlightsTest - Verify if all flight details are showing flight number
+00:45:18.334 [main] INFO  com.artoftesting.test.SearchFlightsTest - Verify no flights found message is shown when there are no flight route
