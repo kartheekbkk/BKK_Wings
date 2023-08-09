@@ -36,8 +36,6 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 /**
 * The TestBase class is the base class to fetch environment specific configuration parameters from 
 * Jenkins/Maven. Based on the parameters, it performs the browser setup and tear-down functions.
-* 
-* @author  Kuldeep Rana
 */
 
 
